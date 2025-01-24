@@ -1,0 +1,1 @@
+Skrip Python juga bisa digunakan untuk teknik Man-in-the-Middle (MitM) attack, yang memungkinkan peretas untuk menyadap komunikasi antara dua pihak dan mengubah data yang dikirimkan. Salah satu alat yang populer untuk MitM adalah mitmproxy, namun skrip Python sederhana juga bisa digunakan untuk ini.
